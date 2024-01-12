@@ -633,4 +633,4 @@ limitations under the License.
 
 ## Appendix
 
-Any additional information goes here
+You also need the [Clinic](https://github.com/ZeyadHabash/fatty-and-co-Clinic) for full functionality
